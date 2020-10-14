@@ -89,7 +89,7 @@ binding.pry
         steals: 22,
         blocks: 15,
         slam_dunks: 10 },
-binding.pry
+
       desagna_diop: {
           player_name:"DeSagna Diop",
           number: 2,
