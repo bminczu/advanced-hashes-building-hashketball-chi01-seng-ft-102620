@@ -125,5 +125,6 @@ def game_hash
     ]
   }
 }
+binding.pry
 end
 binding.pry
