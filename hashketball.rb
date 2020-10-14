@@ -62,6 +62,7 @@ def game_hash
       ]
   },
   binding.pry
+  puts "hello world"
   away: {
     team_name: "Charlotte Hornets",
     colors: ["Turquoise", "Purple"],
