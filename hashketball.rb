@@ -1,4 +1,4 @@
-def
+def game_hash
   hashketball = {
   home: {
     team_name: "Brooklyn Nets",
