@@ -13,7 +13,7 @@ hashketball = {
         steals: "3",
         blocks: "1",
         slam_dunks: "1"},
-        
+
       reggie_evans: {
         player_name:"Reggie Evans",
         number: "30",
@@ -24,7 +24,7 @@ hashketball = {
         steals: "12",
         blocks: "12",
         slam_dunks: "7"},
-        
+
       brook_lopez: {
         player_name:"Brook Lopez",
         number: "11",
@@ -35,7 +35,7 @@ hashketball = {
         steals: "3",
         blocks: "1",
         slam_dunks: "15"},
-        
+
       mason_plumlee: {
         player_name:"Mason Plumlee",
         number: "1",
@@ -59,7 +59,7 @@ hashketball = {
         slam_dunks: "1"},
       ]
   }
-  
+
   away:{
     team_name:
     colors:
